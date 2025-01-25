@@ -6,5 +6,5 @@ __pycache__
 .ipynb_checkpoints
 outputs/
 datasets/*
-!datasets/sacre_coeur/
-datasets/sacre_coeur/query
+!datasets/ford/
+datasets/ford/query
